@@ -14,12 +14,12 @@ RHCSA EX200 Study Notes  and Lab Environment.
 
 ## Table of Contents
 
-    -[Exam Objectives](#red-hat-certified-system-administrator-rhcsa-exam-objectives)
-        -[Exam Objectives Expanded]
-    -[Lab Setup] (#RHCSA-LAB)
-    -[Skills]
-    -[Task]
-    -[Notes]
+    - [Exam Objectives](#red-hat-certified-system-administrator-rhcsa-exam-objectives)
+        - [Exam Objectives Expanded]
+    - [Lab Setup] (#RHCSA-LAB)
+    - [Skills]
+    - [Task]
+    - [Notes]
 
 ## [**Red Hat Certified System Administrator (RHCSA)** Exam Objectives](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=objectives)
 
